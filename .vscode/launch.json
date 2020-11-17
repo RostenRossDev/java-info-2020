@@ -1,0 +1,108 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EjerciciosComplementario9",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementario9",
+            "projectName": "java-spring_informatorio2020_e6210c5d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EjerciciosComplementario7",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementario7",
+            "projectName": "java-spring_informatorio2020_e6210c5d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EjercicioComplementario9",
+            "request": "launch",
+            "mainClass": "EjercicioComplementario9",
+            "projectName": "java-spring_informatorio2020_e6210c5d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EjerciciosComplementario8",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementario8",
+            "projectName": "java-spring_informatorio2020_e6210c5d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EjercicioComplemento7",
+            "request": "launch",
+            "mainClass": "EjercicioComplemento7",
+            "projectName": "java-spring_informatorio2020_e6210c5d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EjerciciosComplementario6",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementario6",
+            "projectName": "java-spring_informatorio2020_e6210c5d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EjercicioComplementario5",
+            "request": "launch",
+            "mainClass": "EjercicioComplementario5",
+            "projectName": "java-spring_informatorio2020_e6210c5d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EjerciciosComplementario4",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementario4",
+            "projectName": "java-spring_informatorio2020_e6210c5d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EjerciciosComplementario3",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementario3",
+            "projectName": "java-spring_informatorio2020_e6210c5d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EjerciciosComplementario2",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementario2",
+            "projectName": "java-spring_informatorio2020_e6210c5d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EjercicioComplementario1",
+            "request": "launch",
+            "mainClass": "EjercicioComplementario1",
+            "projectName": "java-spring_informatorio2020_e6210c5d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ejercicio1",
+            "request": "launch",
+            "mainClass": "Ejercicio1",
+            "projectName": "java-spring_informatorio2020_e6210c5d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ejercicio1",
+            "request": "launch",
+            "mainClass": "Ejercicio1",
+            "projectName": "java-spring_informatorio2020/EjerciciosComplementario_1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - practica1",
+            "request": "launch",
+            "mainClass": "practica1",
+            "projectName": "java-spring_informatorio2020"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
